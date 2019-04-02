@@ -20,7 +20,7 @@
       "value": "log.server.ger.intel.com",
       "valueType": "string",
       "regex":""
-    },
+    }
   ],
   "profile": {
     "name": "typicode"
