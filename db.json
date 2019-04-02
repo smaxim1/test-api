@@ -1,0 +1,28 @@
+{
+  "sysparams": [
+    {
+      "id": 1,
+      "name": "IsToRecenter",
+      "value":true,
+      "valueType": "bool",
+      "regex":""
+    },
+  {
+      "id": 2,
+      "name": "IsFirstRun",
+      "value": false,
+      "valueType": "bool",
+      "regex":""
+    },
+    {
+      "id": 3,
+      "name": "LogServerName",
+      "value": "log.server.ger.intel.com",
+      "valueType": "string",
+      "regex":""
+    },
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
