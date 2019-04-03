@@ -3,14 +3,14 @@
     {
       "id": 1,
       "name": "IsToRecenter",
-      "value":true,
+      "value": "true",
       "valueType": "bool",
       "regex":""
     },
   {
       "id": 2,
       "name": "IsFirstRun",
-      "value": false,
+      "value": "false",
       "valueType": "bool",
       "regex":""
     },
